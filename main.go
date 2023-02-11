@@ -6,7 +6,6 @@ import(
 	"net/http"
 
 	"github.com/Adityap-3055/mongo-golang/controllers"
-	"github.com/Adityap-3055/mongo-golang/models"
 )
 
 func main() {
